@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db3e02e-da6d-4e15-9707-75034a06a016" name="Changes" comment="" />
+    <list default="true" id="2db3e02e-da6d-4e15-9707-75034a06a016" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Example#1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example#1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,8 +75,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -97,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664733982943</updated>
       <workItem from="1664733983785" duration="19000" />
+      <workItem from="1664777336480" duration="251000" />
     </task>
     <servers />
   </component>

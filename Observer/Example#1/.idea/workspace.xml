@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63e4ce49-6a80-45da-8daa-fb2f9347fa51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstYearUniversity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Strategy/Example#2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Strategy/Example#2/src/Books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Strategy/Example#2/src/NoPenalty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Strategy/Example#2/src/TenPercent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Strategy/Example#2/src/TwentyPercent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Decorator/Example#2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Decorator/Example#2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Strategy/Example#2/src/com/company/Addition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Strategy/Example#2/src/com/company/Division.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Strategy/Example#2/src/com/company/FunctionsStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Strategy/Example#2/src/PenaltyCalculationStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Strategy/Example#2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Strategy/Example#2/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="63e4ce49-6a80-45da-8daa-fb2f9347fa51" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +90,7 @@
     <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example#2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -136,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664733967010</updated>
       <workItem from="1664733968398" duration="13000" />
-      <workItem from="1664773890802" duration="2856000" />
+      <workItem from="1664773890802" duration="3093000" />
     </task>
     <servers />
   </component>
