@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6787f27-bd21-493a-befe-83b6f686524f" name="Changes" comment="" />
+    <list default="true" id="b6787f27-bd21-493a-befe-83b6f686524f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Observer/Example#2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/Example#2/src/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Observer/Example#2/src/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decorator/Example#1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Decorator/Example#1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer/Example#2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/Example#2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer/Example#2/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/Example#2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/Example#1/out/production/Example#1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/Example#1/out/production/Example#1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/Example#1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/Example#1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/Example#2/out/production/Example#2/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/Example#2/out/production/Example#2/Books.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +95,7 @@
     <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Observer/Example#2" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -110,6 +121,7 @@
       <workItem from="1664724439416" duration="42000" />
       <workItem from="1664725579502" duration="63000" />
       <workItem from="1664733478926" duration="674000" />
+      <workItem from="1664777528898" duration="780000" />
     </task>
     <servers />
   </component>

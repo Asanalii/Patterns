@@ -2,15 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2db3e02e-da6d-4e15-9707-75034a06a016" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Example#1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example#1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Decorator/Example#1/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Decorator/Example#1/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Strategy/Example#1/out/production/Example#1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Strategy/Example#1/out/production/Example#1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Strategy/Example#1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Strategy/Example#1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Strategy/Example#2/out/production/Example#2/Books.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Strategy/Example#2/out/production/Example#2/Books.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Fad9lF6bRt2O7TraBLraoBipb9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -78,11 +96,11 @@
     <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Decorator/Example#1" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Example#2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -102,10 +120,22 @@
       <updated>1664733982943</updated>
       <workItem from="1664733983785" duration="19000" />
       <workItem from="1664777336480" duration="251000" />
+      <workItem from="1664777708575" duration="699000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
