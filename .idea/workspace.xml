@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6787f27-bd21-493a-befe-83b6f686524f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer/Example#1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/Example#1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer/Example#1/out/production/Example#1/FirstYearUniversity.class" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/Example#1/out/production/Example#1/FirstYearUniversity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer/Example#1/out/production/Example#1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/Example#1/out/production/Example#1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer/Example#1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/Example#1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Observer/Example#2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Observer/Example#2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/Example#1/out/production/Example#1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/Example#1/out/production/Example#1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/Example#1/src/English.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/Example#1/src/English.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/Example#1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/Example#1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strategy/Example#1/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Strategy/Example#1/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +95,7 @@
     <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Strategy/Example#1" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -114,6 +123,9 @@
       <workItem from="1664733478926" duration="674000" />
       <workItem from="1664777528898" duration="780000" />
       <workItem from="1664854597559" duration="54000" />
+      <workItem from="1664949272341" duration="129000" />
+      <workItem from="1664951811996" duration="623000" />
+      <workItem from="1664961608082" duration="662000" />
     </task>
     <servers />
   </component>

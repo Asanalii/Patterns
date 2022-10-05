@@ -10,8 +10,9 @@ public class Main {
         Student student = new Student("Asanali");
         Student student2 = new Student("Aset");
 
+
         student.giveInfo(new SoftwareDesignPatterns());
-        student2.giveInfo(new English(15));
+        student2.giveInfo(new English());
 
     }
 }

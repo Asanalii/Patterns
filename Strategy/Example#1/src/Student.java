@@ -8,5 +8,6 @@ public class Student {
     public void giveInfo(CourseStrategy courseStrategy){
         System.out.println("Courses by taken " + name);
         courseStrategy.showCourseDetails();
+        System.out.println("---------------------");
     }
 }

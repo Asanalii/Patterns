@@ -2,8 +2,8 @@ public class English implements CourseStrategy{
 
     private int Credits;
 
-    public English(int credit){
-        this.Credits = credit;
+    public English(){
+        this.Credits = 15;
     }
 
     @Override

@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db3e02e-da6d-4e15-9707-75034a06a016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ChatObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Example#1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example#1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Example#1/src/FirstYearUniversity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Example#1/src/FirstYearUniversity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Example#1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Example#1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Observable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Observer.java" beforeDir="false" />
-    </list>
+    <list default="true" id="2db3e02e-da6d-4e15-9707-75034a06a016" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +89,7 @@
     <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example#1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -131,7 +120,7 @@
       <workItem from="1664777336480" duration="251000" />
       <workItem from="1664777708575" duration="699000" />
       <workItem from="1664854584949" duration="73000" />
-      <workItem from="1664882136250" duration="3671000" />
+      <workItem from="1664882136250" duration="3945000" />
     </task>
     <servers />
   </component>
