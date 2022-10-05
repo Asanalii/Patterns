@@ -8,7 +8,6 @@ public class Main {
         Student student2 = new Student("Nurasyl", firstYearUniversity);
         Student student3 = new Student("Aset", firstYearUniversity);
 
-
         firstYearUniversity.setUniversityNews("Hello freshmen!");
 
 

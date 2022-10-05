@@ -24,7 +24,6 @@ public class FirstYearUniversity implements University{
     @Override
     public void removeStudent(Student student) {
         studentsList.remove(student);
-
     }
     @Override
     public void sendInfo() {
